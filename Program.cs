@@ -13,7 +13,13 @@ static void countNumbersDelay(){
     }
 }
 
-Thread thread = new Thread(countNumbersDelay);
-thread.Start();
-thread.Join();
+Console.WriteLine("Starting");
+Thread thread1 = new Thread(countNumbersDelay);
+thread1.Start();
+Thread.Sleep(TimeSpan.FromSeconds(6));
+thread1.Interrupt();
+Console.WriteLine("The thread1 has been aborted");
+Thread thread2 = new Thread(countNumbers);
+thread2.Start();
+countNumbers();
 Console.WriteLine("This is completed");
