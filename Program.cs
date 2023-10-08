@@ -15,5 +15,5 @@ static void countNumbersDelay(){
 
 Thread thread = new Thread(countNumbersDelay);
 thread.Start();
-
-countNumbers();
+thread.Join();
+Console.WriteLine("This is completed");
