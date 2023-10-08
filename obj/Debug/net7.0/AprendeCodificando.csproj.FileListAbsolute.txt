@@ -1,0 +1,14 @@
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\bin\Debug\net7.0\AprendeCodificando.exe
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\bin\Debug\net7.0\AprendeCodificando.deps.json
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\bin\Debug\net7.0\AprendeCodificando.runtimeconfig.json
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\bin\Debug\net7.0\AprendeCodificando.dll
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\bin\Debug\net7.0\AprendeCodificando.pdb
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.AssemblyInfoInputs.cache
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.AssemblyInfo.cs
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.dll
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\refint\AprendeCodificando.dll
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.pdb
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\AprendeCodificando.genruntimeconfig.cache
+C:\Users\josel\OneDrive\Escritorio\aprende_codificando\csharp\AprendeCodificando\obj\Debug\net7.0\ref\AprendeCodificando.dll
